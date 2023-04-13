@@ -73,7 +73,7 @@
       - zlib1g-dev
       - curl
       - libcurl4-gnutls-dev
-      - python-libxml2
+      - python3-libxml2
       - libvirt0
       - libnl-3-dev
       - libnl-route-3-dev
